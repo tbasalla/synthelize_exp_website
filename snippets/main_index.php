@@ -6,7 +6,7 @@
     <div class="carousel-item active">
       <div class="carousel-container">
         <h2 class="animated fadeInDown">Welcome to <span>Synthelize</span></h2>
-        <p class="animated fadeInUp">Your Partner for Data Strategy.</p>
+        <h3 class="animated fadeInUp">Your Partner for Data Strategy.</h3>
         <a href="#about" class="btn-get-started animated fadeInUp scrollto">Read More</a>
       </div>
     </div>
