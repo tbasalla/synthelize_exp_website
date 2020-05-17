@@ -6,7 +6,7 @@
     <div class="carousel-item active">
       <div class="carousel-container">
         <h2 class="animated fadeInDown">Welcome to <span>Synthelize</span></h2>
-        <h3 class="animated fadeInUp">Your Partner for Data Strategy.</h3>
+        <p class="animated fadeInUp">Data is more important than ever, and every organization has data challenges.  We have decades of experience helping organizations to deal with the ever growing mountain of data by building data lakes, data warehouses, and data visualizations to satisfy even the most demanding business intelligence needs.</p>
         <a href="#about" class="btn-get-started animated fadeInUp scrollto">Read More</a>
       </div>
     </div>
