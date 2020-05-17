@@ -43,7 +43,7 @@
           <li><a href="#services" class="cust-navbar-link">Our Process</a></li>
           <li><a href="#portfolio" class="cust-navbar-link">BI Strategy</a></li>
           <li><a href="#team" class="cust-navbar-link">Data Lakes</a></li>
-          <li><a href="blog.html" class="cust-navbar-link">Blog</a></li>
+          <li><a href="/blog" class="cust-navbar-link">Blog</a></li>
           <li><a href="#contact" class="cust-navbar-link">Contact</a></li>
         </ul>
       </nav><!-- .nav-menu -->
