@@ -1,18 +1,3 @@
-<main id="main">
-    <!-- ======= Breadcrumbs ======= -->
-    <section id="breadcrumbs" class="breadcrumbs">
-      <div class="container">
-
-        <ol>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="blog.html">Blog</a></li>
-        </ol>
-        <h2>Building a Data Lake on Microsoft Azure</h2>
-
-      </div>
-    </section><!-- End Breadcrumbs -->
-
-    <!-- ======= Blog Section ======= -->
     <section id="blog" class="blog">
       <div class="container">
             <article class="entry entry-single">
