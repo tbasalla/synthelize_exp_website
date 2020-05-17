@@ -9,6 +9,7 @@
               <h2 class="entry-title">
                 <a href="blog-single.html">Building a Data Lake</a>
               </h2>
+
               <div class="entry-content">
 <p class="blog-p">There are several steps involved in the process of building a data lake.  These steps are Locate, Ingest, Transform, and Recycle.</p>
 <h4 class="blog-subtitle">Locate</h5>

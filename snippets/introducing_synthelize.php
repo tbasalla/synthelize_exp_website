@@ -1,17 +1,16 @@
-<div id="blog-hero" style="background-image:url('../static/images/blog-bg-1.jpg');">
-	<!---put URL of desired blog header image in quotes inside the parantheses of the "background-image" property------>
-        <div class="cloud" style="background-image:url('../static/images/cloud.png');">
-			<div class="blog-title">
-				<h1>Introducing Synthelize</h1>
-			</div>
-		</div>
-</div>
+<section id="blog" class="blog">
+      <div class="container">
+            <article class="entry entry-single">
 
+              <div class="entry-img">
+                <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
+              </div>
 
-<div class="container">
-	<div class="row">
-		<div class="twelve columns"  style="font-size: 13pt">
-		<h2>What's your data telling you?</h2>
+              <h2 class="entry-title">
+                <a href="blog-single.html">Introducing Synthelize</a>
+              </h2>
+
+              <div class="entry-content">
 		<p class="blog-p">These days organizations are drowning in data.   Data is being accumulated everywhere&#8212;cloud based systems, locally hosted systems, databases, spreadsheets.  Data is streaming in from phones, from tablets, even from the tiny devices and sensors that record our environment.  Never in history has more data been captured and the growth of data collection is accelerating with no end in sight.</p>
 		<p class="blog-p">Fifty years ago the quantity of data that any person had to deal with was fairly constrained.  Data storage was quite expensive and the means of collecting data were quite limited.  Analyzing data was a fairly straightforward process&#8212;run some limited reports, maybe aggregate a few numbers.  Generating anything beyond the simplest of reports took an enormous effort.
 <p class="blog-p">Now every type of organization is looking at mountains of data.  Governmental organizations have to deal with data coming in on thousands of programs and initiatives and have to answer questions regarding the effectiveness of those programs.  Manufacturing companies have to find ways to combine the enormous amount of data on production and quality assurance and pair it with salaries and unit sales.  Financial organizations need to keep track of trends in market data, capital, and risk management.  Distribution companies need to keep track of complex supply chains involving inventory, transportation, and warehousing.  Charitable organizations need to capture data from various campaigns and public works and report back to donors on the impact of that work.</p>
@@ -27,5 +26,5 @@
 <h2>Let's chat!</h2>
 <p class="blog-p">Are you interested in learning more&#8212;get in touch and let's start the data journey together.</p>
 </div>
-</div>
-</div>
+</article><!-- End blog entry -->
+</section><!-- End Blog Section -->

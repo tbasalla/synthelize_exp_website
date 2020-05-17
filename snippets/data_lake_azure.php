@@ -68,7 +68,6 @@
 <h3 class="blog-subtitle">Conclusion</h3>
 
 <p class="blog-p">It is clear that Microsoft is positioning Azure to take the lead in the creation and use of data lakes.  The tools and scale available in the Azure cloud platform make it a natural choice for those looking to start the process of building an organizational data lake.  Do you want to work with a partner to build a data lake on Azure?  <a href="mailto:info@synthelize.com"  onclick="javascript:saveclick();">Contact us</a> and we can help you every step of the way.</p>
-
               </div>
             </article><!-- End blog entry -->
     </section><!-- End Blog Section -->

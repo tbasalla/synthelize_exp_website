@@ -1,16 +1,16 @@
-<!--END HEADER------------------------------------------->
-<div id="blog-hero" style="background-image:url('../static/images/blog-bg-1.jpg');">
-	<!---put URL of desired blog header image in quotes inside the parantheses of the "background-image" property------>
-		<div class="cloud" style="background-image:url('../static/images/cloud.png');">
-			<div class="blog-title">
-				<h1>Data Lake vs. Data Warehouse</h1>
-			</div>
-		</div>
-</div>
-<div class="container">
-        <div class="row">
-            <div class="twelve columns"  style="font-size: 13pt">
-<h2>Data Lake vs. Data Warehouse</h2>
+<section id="blog" class="blog">
+      <div class="container">
+            <article class="entry entry-single">
+
+              <div class="entry-img">
+                <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
+              </div>
+
+              <h2 class="entry-title">
+                <a href="blog-single.html">Data Lake vs. Data Warehouse</a>
+              </h2>
+
+              <div class="entry-content">
 <p class="blog-p">In our previous articles we explored the idea of the data lake.  Many organizational leaders are familiar with the idea of a data warehouse, but not a data lake, and wonder what the purpose of a data lake might be.  We will explore in this article how a data lake differs from a data warehouse, and why a data lake might be a good addition to an organization’s data strategy.</p>
 <h3 class="blog-subtitle">Data Lakes - An Evolution in Data Strategy</h3>
 <p class="blog-p">It must first be said that data lakes and data warehouses are not mutually exclusive.  In fact, the whole concept of a data lake arose to SUPPLEMENT, not SUPPLANT, traditional data warehouses.  A traditional data warehouse is engineered to solve a particular set of problems, and while it is good at some things, it is not great at other use cases where a data lake excels.  We explore below some of the tradeoffs of data storage and how data lakes and data warehouses differ in their approach.  A data lake is just another tool for organizational data strategy.  </p>
@@ -36,5 +36,5 @@
 <p class="blog-p">Our prediction is that in the next ten years data lakes will take the place of preeminence in the world of data strategy and data warehouses will recede to a smaller, but still very important role.  Instead of trying to twist a monolithic data warehouse to suit a thousand disparate organizational needs, organizations will begin to see that a data lake and the surrounding processes can be used to feed many different use cases.  One of these use cases will indeed be providing the data that feeds the traditional data warehouse, but other use cases might be low latency text search using Elasticsearch, or machine learning using Tensorflow, or image recognition using neural networks.  </p>
 <p class="blog-p">Are you looking for a partner to help you to refine your data strategy?  <a href="mailto:info@synthelize.com"  onclick="javascript:saveclick();">Contact us</a> and let’s work together.</p>
 </div>
-</div>
-</div>
+</article><!-- End blog entry -->
+</section><!-- End Blog Section -->

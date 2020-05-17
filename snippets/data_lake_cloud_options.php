@@ -1,16 +1,16 @@
-<!--END HEADER------------------------------------------->
-<div id="blog-hero" style="background-image:url('../static/images/blog-bg-1.jpg');">
-	<!---put URL of desired blog header image in quotes inside the parantheses of the "background-image" property------>
-		<div class="cloud" style="background-image:url('../static/images/cloud.png');">
-			<div class="blog-title">
-				<h1>Data Lake Solutions</h1>
-			</div>
-		</div>
-</div>
-<div class="container">
-        <div class="row">
-            <div class="twelve columns"  style="font-size: 13pt">
-<h2>Data Lake Solutions</h2>
+<section id="blog" class="blog">
+      <div class="container">
+            <article class="entry entry-single">
+
+              <div class="entry-img">
+                <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
+              </div>
+
+              <h2 class="entry-title">
+                <a href="blog-single.html">Data Lake Solutions</a>
+              </h2>
+
+              <div class="entry-content">
 <p class="blog-p">In this article we will be exploring three major cloud vendors – Amazon Web Services, Azure, and Google Cloud Platform – and their distinct data lake/big data tools.  In the previous article we explored a few of the tools that help to build and use data lakes.  These toolsets are almost all supported as hosted versions in each of the major cloud platforms.  This allows you to spin up, say, Hadoop or Elastic and evaluate it before you commit to building a full implementation.  In addition to the tools listed previously, each cloud provider has their own native flavors of data lake tools to work with.  In some cases these native versions may offer performance gains as they are more deeply integrated into the cloud infrastructure.</p>
 <h4 class="blog-subtitle">Amazon Web Services (AWS)</h4>
 <h5 class="bold-header">AWS Lake Formation </h5> 
@@ -47,5 +47,5 @@
 <p class="blog-p">In this series we learned the <a href="../what-is-a-data-lake">rationale</a> behind building a data lake.  We then <a  href="../building-a-data-lake">explored</a> how to build a data lake and the common tools used with data lakes.  Finally, in this article we explored the cloud data lake options.</p>
 <p class="blog-p">We hope this series gave you a good overview of data lakes.  If you are interested in working with a partner in building your data lake, let's <a href="mailto:info@synthelize.com">connect</a> and develop your data strategy together.</p>
 </div>
-</div>
-</div>
+            </article><!-- End blog entry -->
+    </section><!-- End Blog Section -->

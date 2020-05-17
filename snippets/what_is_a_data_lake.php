@@ -1,16 +1,16 @@
-<!--END HEADER------------------------------------------->
-<div id="blog-hero" style="background-image:url('../static/images/blog-bg-1.jpg');">
-	<!---put URL of desired blog header image in quotes inside the parantheses of the "background-image" property------>
-		<div class="cloud" style="background-image:url('../static/images/cloud.png');">
-			<div class="blog-title">
-				<h1>What is a Data Lake?</h1>
-			</div>
-		</div>
-</div>
-<div class="container">
-        <div class="row">
-            <div class="twelve columns"  style="font-size: 13pt">
-            <h2>What is a Data Lake?</h2>
+<section id="blog" class="blog">
+      <div class="container">
+            <article class="entry entry-single">
+
+              <div class="entry-img">
+                <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
+              </div>
+
+              <h2 class="entry-title">
+                <a href="blog-single.html">What is a Data Lake?</a>
+              </h2>
+
+              <div class="entry-content">
             <p class="blog-p">Thirty years ago only a very small sliver of organizations had to worry about this “big data”.  Data storage was relatively expensive, and developing the processes to capture that data was time consuming.  Most organizations were happy to develop a few procedures to move their data into data warehouses.</p>
             <p class="blog-p">Much has changed in the ensuing decades.  Regulations have dictated that organizations save much more data than before.  The price of storage and compute power have dropped to the point where it feels like a mistake NOT to save as much data as possible.  Cloud platforms have emerged that have enabled a “save everything” approach.  Many organizations that would not have called themselves “data driven” a decade ago are struggling with the big data problem.</p>
             <p class="blog-p">Organizational data comes in many forms – spreadsheets, text files, images, complex models, databases, JSON/XML, and other industry-proprietary formats.  Though the amount of data generated and collected by organizations is increasing at an ever-accelerating pace, the capacity for internal IT staff to keep up with that data and give it a home is not.</p>
@@ -62,7 +62,6 @@
             <p class="blog-p"><b>Secure</b> – With so much critical data in one place, security issues become paramount.  Unfortunately data security often runs at cross-purposes with other elements in this checklist.  There are several layers to security.  Cloud providers often handle operating system and network security for you, but, in theory, their data stores are accessible to all with the right permissions.  In contrast, an on-premises solution might allow you to hide the data behind your network firewalls, but you are responsible at the end of the day for patching, monitoring and mitigating all attacks against your network and infrastructure.</p>
             <p class="blog-p"><b>Redundant</b> – Because so much organizational data is being stored in the data lake, it is critical to provide some sort of redundancy to the data lake.  Cloud vendors handle this process by allowing you to mirror data storage over a number of availability zones.  This physical separation of data copies reduces the risk of a catastrophic event wiping out years of organizational data.</p>
             <p class="blog-p">In our <a href="../building-a-data-lake">next article</a> we will explore the process of building a data lake.</p>
-        </div>
-    </div>
-    </div>
-    
+            </div>
+</article><!-- End blog entry -->
+</section><!-- End Blog Section -->
