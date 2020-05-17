@@ -10,14 +10,6 @@
                 <a href="blog-single.html">Building a Data Lake on Microsoft Azure</a>
               </h2>
 
-              <div class="entry-meta">
-                <ul>
-                  <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="blog-single.html">John Doe</a></li>
-                  <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <a href="blog-single.html"><time datetime="2020-01-01">Jan 1, 2020</time></a></li>
-                  <li class="d-flex align-items-center"><i class="icofont-comment"></i> <a href="blog-single.html">12 Comments</a></li>
-                </ul>
-              </div>
-
               <div class="entry-content">
               <p class="blog-p">In <a href="../data-lake-cloud-options" target="_new">another article</a> we discussed various cloud options for building data lakes. Because many large organizations are using Microsoft’s technology extensively, from SQL Server and the .NET framework, Office, Exchange, Sharepoint and the like, it makes sense to consider Azure a strong contender for building a data lake to store that information.  Microsoft has incentive to ensure that there is seamless integration among all its offerings, so it currently has, and will continue to develop, easy integrations between its products and between those products and its Azure data lake offerings.</p>
 <p class="blog-p">Microsoft has also made some strategic acquisitions that will push the developer community in the direction of the Azure platform.  Its acquisition of GitHub (and GitHub’s subsequent acquisition of npm), put two of the most important tools currently in the developer ecosystem firmly under Microsoft’s supervision.  These acquisitions will eventually funnel (if even in a gentle way) developers toward the Azure ecosystem.  Microsoft has a great track record for developer support.</p>
