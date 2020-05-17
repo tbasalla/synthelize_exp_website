@@ -72,7 +72,7 @@
       <div class="row">
         <div class="col-lg-3 col-md-6 footer-info">
             <h3>About Synthelize</h3>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+            <p>Providing data integration, data visualization, and data strategy to organizations worldwide. </p>
           </div>
 
         <div class="col-lg-3 col-md-6 footer-links">
