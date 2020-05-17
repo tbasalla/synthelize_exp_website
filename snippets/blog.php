@@ -23,7 +23,7 @@
         <article class="entry">
 
           <div class="entry-img">
-            <img src="assets/img/blog-1.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -53,7 +53,7 @@
         <article class="entry">
 
           <div class="entry-img">
-            <img src="assets/img/blog-2.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/blog-2.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -83,7 +83,7 @@
         <article class="entry">
 
           <div class="entry-img">
-            <img src="assets/img/blog-3.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/blog-3.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -113,7 +113,7 @@
         <article class="entry">
 
           <div class="entry-img">
-            <img src="assets/img/blog-4.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/blog-4.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -143,7 +143,7 @@
         <article class="entry">
 
           <div class="entry-img">
-            <img src="assets/img/blog-5.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/blog-5.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -173,7 +173,7 @@
         <article class="entry">
 
           <div class="entry-img">
-            <img src="assets/img/blog-6.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/blog-6.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
