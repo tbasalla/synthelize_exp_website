@@ -38,13 +38,13 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li><a href="#header" style="font-size: 13pt; font-weight: bold">Home</a></li>
-          <li><a href="#about" style="font-size: 13pt; font-weight: bold">About</a></li>
-          <li><a href="#services" style="font-size: 13pt; font-weight: bold">Our Process</a></li>
-          <li><a href="#portfolio" style="font-size: 13pt; font-weight: bold">BI Strategy</a></li>
-          <li><a href="#team" style="font-size: 13pt; font-weight: bold">Data Lakes</a></li>
-          <li><a href="blog.html" style="font-size: 13pt; font-weight: bold">Blog</a></li>
-          <li><a href="#contact" style="font-size: 13pt; font-weight: bold">Contact</a></li>
+          <li><a href="#header" class="cust-navbar-link">Home</a></li>
+          <li><a href="#about" class="cust-navbar-link">About</a></li>
+          <li><a href="#services" class="cust-navbar-link">Our Process</a></li>
+          <li><a href="#portfolio" class="cust-navbar-link">BI Strategy</a></li>
+          <li><a href="#team" class="cust-navbar-link">Data Lakes</a></li>
+          <li><a href="blog.html" class="cust-navbar-link">Blog</a></li>
+          <li><a href="#contact" class="cust-navbar-link">Contact</a></li>
         </ul>
       </nav><!-- .nav-menu -->
 

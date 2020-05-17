@@ -2445,3 +2445,10 @@ section {
 #footer .credits a {
   color: #f6b024;
 }
+
+/* additional classes */
+.cust-navbar-link
+{
+  font-size: 15pt;
+  font-weight: bold;
+}
