@@ -28,27 +28,11 @@
   <link href="assets/css/style.css" rel="stylesheet">
 </head>
 <body>
-<!-- ======= Top Bar ======= -->
-<div id="topbar" class="d-none d-lg-flex align-items-center fixed-top {% if page != "home" %}topbar-inner-pages{% endif %}">
-  <div class="container d-flex align-items-center">
-    <div class="contact-info mr-auto">
-      <ul>
-        <li><i class="icofont-envelope"></i><a href="mailto:contact@example.com">contact@example.com</a></li>
-        <li><i class="icofont-phone"></i> +1 5589 55488 55</li>
-        <li><i class="icofont-clock-time icofont-flip-horizontal"></i> Mon-Fri 9am - 5pm</li>
-      </ul>
-    </div>
-    <div class="cta">
-      <a href="#about" class="scrollto">Get Started</a>
-    </div>
-  </div>
-</div>
-
 <!-- ======= Header ======= -->
 <header id="header" class="fixed-top {% if page != "home" %}header-inner-pages{% endif %}">
   <div class="container d-flex align-items-center">
 
-    <h1 class="logo mr-auto"><a href="{% if page != "home" %}index.html{% endif %}#header" class="scrollto">Anyar</a></h1>
+    <h1 class="logo mr-auto"><a href="{% if page != "home" %}index.html{% endif %}#header" class="scrollto">Synthelize</a></h1>
     <!-- Uncomment below if you prefer to use an image logo -->
     <!-- <a href="{% if page != "home" %}index.html{% endif %}#header" class="logo mr-auto scrollto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
