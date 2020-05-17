@@ -23,7 +23,7 @@
               </div>
 
               <h2 class="entry-title">
-                <a href="blog-single.html">Building a Data Lake on Microsoft Azure/a>
+                <a href="blog-single.html">Building a Data Lake on Microsoft Azure</a>
               </h2>
 
               <div class="entry-meta">
