@@ -38,7 +38,7 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li class="active"><a href="#header">Home</a></li>
+          <li><a href="#header" style="font-size: 13pt; font-weight: bold">Home</a></li>
           <li><a href="#about">About</a></li>
           <li><a href="#services">Our Process</a></li>
           <li><a href="#portfolio">BI Strategy</a></li>
