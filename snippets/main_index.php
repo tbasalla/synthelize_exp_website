@@ -5,8 +5,8 @@
     <!-- Slide 1 -->
     <div class="carousel-item active">
       <div class="carousel-container">
-        <h2 class="animated fadeInDown">Welcome to <span>Anyar</span></h2>
-        <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+        <h2 class="animated fadeInDown">Welcome to <span>Synthelize</span></h2>
+        <p class="animated fadeInUp">Your Partner for Data Strategy.</p>
         <a href="#about" class="btn-get-started animated fadeInUp scrollto">Read More</a>
       </div>
     </div>
