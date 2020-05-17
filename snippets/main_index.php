@@ -19,7 +19,7 @@
 
     <div class="section-title">
       <h2>About Us</h2>
-      <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+      <p>The name "Synthelize" is a combination of the words "synthesize" and "visualize", the two key processes used to extract meaning from data. According to dictionary.com, the word synthesize means "to form (a material or abstract entity) by combining parts or elements". In your world, your data elements exist in many different places—locally hosted systems, spreadsheets, databases, data files, cloud based solutions. Our first job is to synthesize that information—to bring it together into a new form by combining the pieces from various systems. We have decades of experience in integrating data from various places and combining it into new data stores—data warehouses, cubes, or other structures—to help you make sense of it.</p>
     </div>
 
     <div class="row content">
