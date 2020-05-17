@@ -629,7 +629,7 @@
     <div class="row mt-1 d-flex justify-content-end" data-aos="fade-right" data-aos-delay="100">
 
       <div class="col-lg-5">
-        <div class="info">
+<!--        <div class="info">
           <div class="address">
             <i class="icofont-google-map"></i>
             <h4>Location:</h4>
@@ -649,7 +649,7 @@
           </div>
 
         </div>
-
+-->
       </div>
 
       <div class="col-lg-6 mt-5 mt-lg-0" data-aos="fade-left" data-aos-delay="100">

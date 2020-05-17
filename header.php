@@ -29,43 +29,43 @@
 </head>
 <body>
 <!-- ======= Header ======= -->
-<header id="header" class="fixed-top {% if page != "home" %}header-inner-pages{% endif %}">
-  <div class="container d-flex align-items-center">
+<header id="header" class="fixed-top ">
+    <div class="container d-flex align-items-center">
 
-    <h1 class="logo mr-auto"><a href="{% if page != "home" %}index.html{% endif %}#header" class="scrollto">Synthelize</a></h1>
-    <!-- Uncomment below if you prefer to use an image logo -->
-    <!-- <a href="{% if page != "home" %}index.html{% endif %}#header" class="logo mr-auto scrollto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <h1 class="logo mr-auto"><a href="#header" class="scrollto">Anyar</a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="#header" class="logo mr-auto scrollto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
-    <nav class="nav-menu d-none d-lg-block">
-      <ul>
-        <li {% if page == "home" %}class="active"{% endif %}><a href="{% if page != "home" %}index.html{% endif %}#header">Home</a></li>
-        <li><a href="{% if page != "home" %}index.html{% endif %}#about">About</a></li>
-        <li><a href="{% if page != "home" %}index.html{% endif %}#services">Services</a></li>
-        <li {% if page == "portfolio" %}class="active"{% endif %}><a href="{% if page != "home" %}index.html{% endif %}#portfolio">Portfolio</a></li>
-        <li><a href="{% if page != "home" %}index.html{% endif %}#team">Team</a></li>
-        <li><a href="{% if page != "home" %}index.html{% endif %}#pricing">Pricing</a></li>
-        <li {% if page == "blog" %}class="active"{% endif %}><a href="blog.html">Blog</a></li>
-        <li class="drop-down"><a href="">Drop Down</a>
-          <ul>
-            <li><a href="#">Drop Down 1</a></li>
-            <li class="drop-down"><a href="#">Deep Drop Down</a>
-              <ul>
-                <li><a href="#">Deep Drop Down 1</a></li>
-                <li><a href="#">Deep Drop Down 2</a></li>
-                <li><a href="#">Deep Drop Down 3</a></li>
-                <li><a href="#">Deep Drop Down 4</a></li>
-                <li><a href="#">Deep Drop Down 5</a></li>
-              </ul>
-            </li>
-            <li><a href="#">Drop Down 2</a></li>
-            <li><a href="#">Drop Down 3</a></li>
-            <li><a href="#">Drop Down 4</a></li>
-          </ul>
-        </li>
-        <li><a href="{% if page != "home" %}index.html{% endif %}#contact">Contact</a></li>
+      <nav class="nav-menu d-none d-lg-block">
+        <ul>
+          <li class="active"><a href="#header">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#team">Team</a></li>
+          <li><a href="#pricing">Pricing</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li class="drop-down"><a href="">Drop Down</a>
+            <ul>
+              <li><a href="#">Drop Down 1</a></li>
+              <li class="drop-down"><a href="#">Deep Drop Down</a>
+                <ul>
+                  <li><a href="#">Deep Drop Down 1</a></li>
+                  <li><a href="#">Deep Drop Down 2</a></li>
+                  <li><a href="#">Deep Drop Down 3</a></li>
+                  <li><a href="#">Deep Drop Down 4</a></li>
+                  <li><a href="#">Deep Drop Down 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Drop Down 2</a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+            </ul>
+          </li>
+          <li><a href="#contact">Contact</a></li>
 
-      </ul>
-    </nav><!-- .nav-menu -->
+        </ul>
+      </nav><!-- .nav-menu -->
 
-  </div>
-</header><!-- End Header -->
+    </div>
+  </header><!-- End Header -->
