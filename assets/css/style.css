@@ -175,7 +175,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(5, 87, 158, 0.9);
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
@@ -1617,12 +1617,12 @@ section {
 .breadcrumbs {
   padding: 15px 0;
   background: #ecf6fe;
-  margin-top: 130px;
+/*  margin-top: 130px; */
 }
 
 @media (max-width: 992px) {
   .breadcrumbs {
-    margin-top: 50px;
+    /* margin-top: 50px; */
   }
 }
 

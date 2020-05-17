@@ -1,5 +1,5 @@
-<?php $page_title = 'Data Lake Azure - Synthelize'; ?>
+<?php $page_title = 'Our Process - Synthelize'; ?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/hit_tracker.php";?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/header.php";?>
-<?php include $_SERVER['DOCUMENT_ROOT'] . "/snippets/" . "data_lake_azure.php";?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . "/snippets/" . "our_process.php";?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/footer.php";?>
