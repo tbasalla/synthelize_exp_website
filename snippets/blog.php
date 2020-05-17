@@ -22,7 +22,7 @@
       <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
         <article class="entry">
 
-          <div class="entry-img">
+        <div class="entry-img">
             <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
           </div>
 
