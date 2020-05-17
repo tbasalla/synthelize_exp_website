@@ -27,7 +27,7 @@
           </div>
 
           <h2 class="entry-title">
-            <a href="blog-single.html">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</a>
+            <a href="/data-lake-azure">Azure Data Lake</a>
           </h2>
 
           <div class="entry-meta">
