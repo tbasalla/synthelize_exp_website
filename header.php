@@ -38,12 +38,12 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li><a href="#about" class="cust-navbar-link">About</a></li>
-          <li><a href="#services" class="cust-navbar-link">Our Process</a></li>
-          <li><a href="#portfolio" class="cust-navbar-link">BI Strategy</a></li>
-          <li><a href="#team" class="cust-navbar-link">Data Lakes</a></li>
-          <li><a href="/blog" class="cust-navbar-link">Blog</a></li>
-          <li><a href="#contact" class="cust-navbar-link">Contact</a></li>
+          <li><a href="../introducing-synthelize">About</a></li>
+          <li><a href="../our-process">Our Process</a></li>
+          <li><a href="../keys-to-bi-success">BI Strategy</a></li>
+          <li><a href="../data-lakes">Data Lakes</a></li>
+          <li><a href="../blog">Blog</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
       </nav><!-- .nav-menu -->
 
