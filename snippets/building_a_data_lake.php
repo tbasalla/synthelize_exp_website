@@ -6,9 +6,7 @@
                 <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
               </div>
 
-              <h2 class="entry-title">
-                <a href="blog-single.html">Building a Data Lake</a>
-              </h2>
+              <h2 class="entry-title">Building a Data Lake</h2>
 
               <div class="entry-content">
 <p class="blog-p">There are several steps involved in the process of building a data lake.  These steps are Locate, Ingest, Transform, and Recycle.</p>
