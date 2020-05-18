@@ -135,6 +135,9 @@
 
             <div class="content">
               <h3>Our Five Step Process</h3>
+              <p>
+                When we engage with an organization we come in with a clear plan in mind.  While we don't always implement every step, this framework drives the way we think about data strategy.
+              </p>
             </div>
 
             <div class="accordion-list">
