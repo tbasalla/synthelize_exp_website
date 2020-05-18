@@ -11,64 +11,6 @@
 </section><!-- End Hero -->
 
 <main id="main">
-
-<!-- ======= Services Section ======= -->
-<section id="services" class="services">
-  <div class="container" data-aos="fade-up">
-
-    <div class="section-title">
-      <h2>Services</h2>
-      <p>Not every organizational data need is the same.  We offer a broad range of services to join you where you are at in your data journey and help you get to the next level.</p>
-    </div>
-
-    <div class="row">
-      <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-        <div class="icon-box">
-          <i class="icofont-drag"></i>
-          <h4><a href="#">Data Integration</a></h4>
-          <p>We work with your team to develop and implement a data integration plan that may include cloud hosting and data warehousing.</p>
-        </div>
-      </div>
-      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
-        <div class="icon-box">
-          <i class="icofont-dashboard-web"></i>
-          <h4><a href="#">Data Visualization</a></h4>
-          <p>We work with existing or new data stores to develop novel, insightful visualizations in the platform of your choice.</p>
-        </div>
-      </div>
-      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="300">
-        <div class="icon-box">
-          <i class="icofont-compass"></i>
-          <h4><a href="#">Data Strategy</a></h4>
-          <p>We develop long term data plans - systems to evaluate, dashboards to create, ways to disseminate key data throughout your organization.</p>
-        </div>
-      </div>
-      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="600">
-        <div class="icon-box">
-          <i class="icofont-cloud"></i>
-          <h4><a href="#">Cloud Data Migration</a></h4>
-          <p>We help you to evaluate cloud data platforms and move key data processes into more scalable environments.</p>
-        </div>
-      </div>
-      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
-        <div class="icon-box">
-          <i class="icofont-database"></i>
-          <h4><a href="#">Big Data</a></h4>
-          <p>We help you build data structures and data pipelines to deal with the biggest data challenges.</p>
-        </div>
-      </div>
-      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="500">
-        <div class="icon-box">
-          <i class="icofont-pixels"></i>
-          <h4><a href="#">Machine Learning and AI</a></h4>
-          <p>We help you to leverage your data sets with cutting edge machine learning algorithms to extract new insights.</p>
-        </div>
-      </div>
-    </div>
-
-  </div>
-</section><!-- End Services Section -->
-
 <!-- ======= About Us Section ======= -->
 <section id="about" class="about">
   <div class="container" data-aos="fade-up">
@@ -102,24 +44,6 @@
 -->
   </div>
 </section><!-- End About Us Section -->
-
-<!-- ======= Clients Section ======= -->
-<section id="clients" class="clients">
-  <div class="container" data-aos="zoom-in">
-
-    <div class="owl-carousel clients-carousel">
-      <img src="assets/img/clients/client-1.png" alt="">
-      <img src="assets/img/clients/client-2.png" alt="">
-      <img src="assets/img/clients/client-3.png" alt="">
-      <img src="assets/img/clients/client-4.png" alt="">
-      <img src="assets/img/clients/client-5.png" alt="">
-      <img src="assets/img/clients/client-6.png" alt="">
-      <img src="assets/img/clients/client-7.png" alt="">
-      <img src="assets/img/clients/client-8.png" alt="">
-    </div>
-
-  </div>
-</section><!-- End Clients Section -->
 
 <!-- ======= Why Us Section ======= -->
 <section id="why-us" class="why-us">
@@ -195,6 +119,84 @@
 
       </div>
     </section><!-- End Why Us Section -->
+
+
+<!-- ======= Services Section ======= -->
+<section id="services" class="services">
+  <div class="container" data-aos="fade-up">
+
+    <div class="section-title">
+      <h2>Services</h2>
+      <p>Not every organizational data need is the same.  We offer a broad range of services to join you where you are at in your data journey and help you get to the next level.</p>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="icon-box">
+          <i class="icofont-drag"></i>
+          <h4><a href="#">Data Integration</a></h4>
+          <p>We work with your team to develop and implement a data integration plan that may include cloud hosting and data warehousing.</p>
+        </div>
+      </div>
+      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+        <div class="icon-box">
+          <i class="icofont-dashboard-web"></i>
+          <h4><a href="#">Data Visualization</a></h4>
+          <p>We work with existing or new data stores to develop novel, insightful visualizations in the platform of your choice.</p>
+        </div>
+      </div>
+      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="300">
+        <div class="icon-box">
+          <i class="icofont-compass"></i>
+          <h4><a href="#">Data Strategy</a></h4>
+          <p>We develop long term data plans - systems to evaluate, dashboards to create, ways to disseminate key data throughout your organization.</p>
+        </div>
+      </div>
+      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="600">
+        <div class="icon-box">
+          <i class="icofont-cloud"></i>
+          <h4><a href="#">Cloud Data Migration</a></h4>
+          <p>We help you to evaluate cloud data platforms and move key data processes into more scalable environments.</p>
+        </div>
+      </div>
+      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
+        <div class="icon-box">
+          <i class="icofont-database"></i>
+          <h4><a href="#">Big Data</a></h4>
+          <p>We help you build data structures and data pipelines to deal with the biggest data challenges.</p>
+        </div>
+      </div>
+      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="500">
+        <div class="icon-box">
+          <i class="icofont-pixels"></i>
+          <h4><a href="#">Machine Learning and AI</a></h4>
+          <p>We help you to leverage your data sets with cutting edge machine learning algorithms to extract new insights.</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section><!-- End Services Section -->
+
+
+
+<!-- ======= Clients Section ======= -->
+<section id="clients" class="clients">
+  <div class="container" data-aos="zoom-in">
+
+    <div class="owl-carousel clients-carousel">
+      <img src="assets/img/clients/client-1.png" alt="">
+      <img src="assets/img/clients/client-2.png" alt="">
+      <img src="assets/img/clients/client-3.png" alt="">
+      <img src="assets/img/clients/client-4.png" alt="">
+      <img src="assets/img/clients/client-5.png" alt="">
+      <img src="assets/img/clients/client-6.png" alt="">
+      <img src="assets/img/clients/client-7.png" alt="">
+      <img src="assets/img/clients/client-8.png" alt="">
+    </div>
+
+  </div>
+</section><!-- End Clients Section -->
 
 
 <!-- ======= Portfoio Section ======= -->
