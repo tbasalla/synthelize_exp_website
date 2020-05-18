@@ -51,7 +51,7 @@
 
         <div class="row">
 
-          <div class="col-lg-5 align-items-stretch video-box" style='background-image: url("assets/img/contactus/fivestepprocess.jpg");' data-aos="fade-right">
+          <div class="col-lg-5 align-items-stretch video-box" style='background-image: url("../assets/img/contactus/FiveStepProcess.jpg");' data-aos="fade-right">
           </div>
 
           <div class="col-lg-7 d-flex flex-column justify-content-center" data-aos="fade-left">
