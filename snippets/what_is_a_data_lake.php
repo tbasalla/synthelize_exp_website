@@ -13,7 +13,7 @@
             <p>Much has changed in the ensuing decades.  Regulations have dictated that organizations save much more data than before.  The price of storage and compute power have dropped to the point where it feels like a mistake NOT to save as much data as possible.  Cloud platforms have emerged that have enabled a “save everything” approach.  Many organizations that would not have called themselves “data driven” a decade ago are struggling with the big data problem.</p>
             <p>Organizational data comes in many forms – spreadsheets, text files, images, complex models, databases, JSON/XML, and other industry-proprietary formats.  Though the amount of data generated and collected by organizations is increasing at an ever-accelerating pace, the capacity for internal IT staff to keep up with that data and give it a home is not.</p>
             <p>Traditionally data warehouses have been used to deal with the increasing volume of data.  However, over the past decade, the data landscape has changed and data warehouses are no longer the best “first pass” data storage.  Data warehouses are optimized around well-structured data that has been cleansed and formatted for analytics.  They do not work well with image data, JSON/XML, or high frequency data such as logs and IoT endpoints.</p>
-            <h4 class="blog-subtitle">Enter the Data Lake</h4>
+            <h4>Enter the Data Lake</h4>
             <p>The concept of a data lake has arisen in response to several relatively new trends in organizational data storage:</p>
             <ul>
                 <li>The price of permanent data storage has become incredibly low, making it cost-effective to save data that in previous years might have been discarded in the name of preserving storage space.</li>
@@ -22,7 +22,7 @@
                 <li>High frequency data endpoints (server logs, website hits, IoT events) are becoming a greater and greater share of data being generated.  This data needs to be stored, but the speed at which it piles up dictates that it needs a very simple storage mechanism.</li>
                 <li>Relational data stores, such as traditional data warehouses, are now being seen as just one of a number of options for data storage and retrieval.  Increasingly the same data is being stored in several different applications depending on usage.  For example, product data might be fed into a document data store for fast search, a data mart to drive executive dashboards, and a traditional relational data warehouse for longer term analytics.</li>
             </ul>
-            <h4 class="blog-subtitle">Data Warehouses vs. Data Lakes</h4>
+            <h4>Data Warehouses vs. Data Lakes</h4>
             <p>At its root a data lake is nothing more than a highly scalable and performant raw data store where data can be staged.  What you do with that data is up to you.</p>
             <p>The following are some of the differences between data lakes and more traditional data warehouses:</p>
             <table style="border: 1px solid black; border-collapse: collapse">
@@ -52,7 +52,7 @@
                 </tr>
             </table>
             <br/>
-            <h4 class="blog-subtitle">What makes a great data lake?</h4>
+            <h4>What makes a great data lake?</h4>
             <p>Data lake implementation details can vary.  Some lakes are implemented on premises.  In recent years organizations have started to shift toward cloud-based data lakes.  Regardless of the implementation details, well-architected data lakes share a number of characteristics.</p>
             <p><b>Scalable</b> – There is not much point in creating a data lake if your data storage solution is not highly scalable.  Data lakes can grow to petabytes and even exabytes in size depending on your storage needs.  Cloud vendors have for the most part solved this problem by offering access to virtually unlimited storage.  On premises data lakes will have to deal with this problem by acquiring extensive NAS storage.</p>
             <p><b>Available</b> – This means that the data lake can be accessed by all the people and applications that need to use it –whether for writing data for storage or reading data for analytics or other uses.  Cloud vendors solve this problem through partitioning and access roles.  On premises solutions will involve similar provisioning of network/storage access.</p>
