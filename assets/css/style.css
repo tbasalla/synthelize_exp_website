@@ -768,8 +768,7 @@ section {
 # Why Us
 --------------------------------------------------------------*/
 .why-us {
-  /* background: #f1f8ff; */
-  background: rgba(5, 87, 158, 0.9);
+  background: #f1f8ff; 
   padding: 0;
 }
 
