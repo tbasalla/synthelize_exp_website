@@ -6,8 +6,7 @@
                 <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
               </div>
 
-              <h2 class="entry-title">
-                <a href="blog-single.html">Five Keys To Successful Business Intelligence Projects</a>
+              <h2 class="entry-title">Five Keys To Successful Business Intelligence Projects
               </h2>
 
               <div class="entry-content">

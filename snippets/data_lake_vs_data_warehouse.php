@@ -6,9 +6,7 @@
                 <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
               </div>
 
-              <h2 class="entry-title">
-                <a href="blog-single.html">Data Lake vs. Data Warehouse</a>
-              </h2>
+              <h2 class="entry-title">Data Lake vs. Data Warehouse</h2>
 
               <div class="entry-content">
 <p class="blog-p">In our previous articles we explored the idea of the data lake.  Many organizational leaders are familiar with the idea of a data warehouse, but not a data lake, and wonder what the purpose of a data lake might be.  We will explore in this article how a data lake differs from a data warehouse, and why a data lake might be a good addition to an organization’s data strategy.</p>

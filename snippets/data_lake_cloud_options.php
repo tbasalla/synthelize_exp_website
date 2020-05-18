@@ -6,9 +6,7 @@
                 <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
               </div>
 
-              <h2 class="entry-title">
-                <a href="blog-single.html">Data Lake Solutions</a>
-              </h2>
+              <h2 class="entry-title">Data Lake Solutions</h2>
 
               <div class="entry-content">
 <p class="blog-p">In this article we will be exploring three major cloud vendors – Amazon Web Services, Azure, and Google Cloud Platform – and their distinct data lake/big data tools.  In the previous article we explored a few of the tools that help to build and use data lakes.  These toolsets are almost all supported as hosted versions in each of the major cloud platforms.  This allows you to spin up, say, Hadoop or Elastic and evaluate it before you commit to building a full implementation.  In addition to the tools listed previously, each cloud provider has their own native flavors of data lake tools to work with.  In some cases these native versions may offer performance gains as they are more deeply integrated into the cloud infrastructure.</p>

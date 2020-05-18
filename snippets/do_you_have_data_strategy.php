@@ -6,9 +6,7 @@
                 <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
               </div>
 
-              <h2 class="entry-title">
-                <a href="blog-single.html">Do you have a data strategy?</a>
-              </h2>
+              <h2 class="entry-title">Do you have a data strategy?</h2>
 
               <div class="entry-content">
 <p class="blog-p">Many organizations think they have a data strategy because they have data SYSTEMS. These individual data systems are the engines of various departments, providing a point of entry and a point of reporting for one department. The sales team might use a tool such as Salesforce or SugarCRM to keep track of contacts, leads, and closes. The folks in marketing might be using a combination of Hubspot or Pardot or Google Analytics or other tools to track marketing efforts. Financials might be managed through Quickbooks, and HR data stored in a system such as WorkDay or PeopleSoft. Information on inventory and production could be in a multitude of different databases, spreadsheets, and files throughout the organization.</p>

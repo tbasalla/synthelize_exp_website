@@ -6,9 +6,7 @@
                 <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
               </div>
 
-              <h2 class="entry-title">
-                <a href="blog-single.html">Introducing Synthelize</a>
-              </h2>
+              <h2 class="entry-title">Introducing Synthelize</h2>
 
               <div class="entry-content">
 		<p class="blog-p">These days organizations are drowning in data.   Data is being accumulated everywhere&#8212;cloud based systems, locally hosted systems, databases, spreadsheets.  Data is streaming in from phones, from tablets, even from the tiny devices and sensors that record our environment.  Never in history has more data been captured and the growth of data collection is accelerating with no end in sight.</p>

@@ -6,9 +6,7 @@
                 <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
               </div>
 
-              <h2 class="entry-title">
-                <a href="blog-single.html">What is a Data Lake?</a>
-              </h2>
+              <h2 class="entry-title">What is a Data Lake?</h2>
 
               <div class="entry-content">
             <p class="blog-p">Thirty years ago only a very small sliver of organizations had to worry about this “big data”.  Data storage was relatively expensive, and developing the processes to capture that data was time consuming.  Most organizations were happy to develop a few procedures to move their data into data warehouses.</p>

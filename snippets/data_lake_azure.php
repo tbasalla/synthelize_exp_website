@@ -6,9 +6,7 @@
                 <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
               </div>
 
-              <h2 class="entry-title">
-                <a href="blog-single.html">Building a Data Lake on Microsoft Azure</a>
-              </h2>
+              <h2 class="entry-title">Building a Data Lake on Microsoft Azure</h2>
 
               <div class="entry-content">
               <p class="blog-p">In <a href="../data-lake-cloud-options" target="_new">another article</a> we discussed various cloud options for building data lakes. Because many large organizations are using Microsoft’s technology extensively, from SQL Server and the .NET framework, Office, Exchange, Sharepoint and the like, it makes sense to consider Azure a strong contender for building a data lake to store that information.  Microsoft has incentive to ensure that there is seamless integration among all its offerings, so it currently has, and will continue to develop, easy integrations between its products and between those products and its Azure data lake offerings.</p>
