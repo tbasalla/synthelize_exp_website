@@ -11,9 +11,7 @@
             <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
           </div>
 
-          <h2 class="entry-title">
-            <a href="/data-lake-azure">Introducing Synthelize</a>
-          </h2>
+          <h2 class="entry-title">Introducing Synthelize</h2>
           <div class="entry-content">
             <p>Who we are, what we do, and why you should work with us for all your business data needs.</p>
             <div class="read-more">
