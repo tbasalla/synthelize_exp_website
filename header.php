@@ -32,7 +32,7 @@
 <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo mr-auto"><a href="../" class="scrollto">Synthelize</a></h1>
+      <!-- <h1 class="logo mr-auto"><a href="../" class="scrollto">Synthelize</a></h1> -->
       <!-- Uncomment below if you prefer to use an image logo -->
       <a href="#header" class="logo mr-auto scrollto"><img src="../assets/img/logo-icon.svg" alt="" class="img-fluid"></a>
 
