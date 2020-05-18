@@ -145,9 +145,7 @@
                 <li data-aos="fade-up" data-aos-delay="100">
                   <a data-toggle="collapse" class="collapse" href="#accordion-list-1"><span>1</span> Identify The Goal <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-1" class="collapse show" data-parent=".accordion-list">
-                    <p>
-                    What are your key, pressing questions regarding your company that could best be answered by data? Are those questions related to profitability? Are they related to effectiveness of sales and marketing? Are they related to production, quality assurance and customer satisfaction? Are they related to human resources and employee satisfaction? Whatever your questions we can help you to determine the right data to answer the question and the right dashboard and visualizations to keep answering the questions for years to come.
-                    </p>
+                    <p>What are your key, pressing questions regarding your company that could best be answered by data?</p>
                   </div>
                 </li>
 
