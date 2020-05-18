@@ -103,13 +103,13 @@
         </div>
 
         <div class="col-lg-4 col-md-6 footer-links">
-          <h4>Useful Links</h4>
+          <h4>Key Links</h4>
           <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="../">Home</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="../introducing-synthelize">About us</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="../our-process">Our Process</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="../what-is-a-data-lake">What is a data lake?</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="../keys-to-bi-success">Keys to BI Success</a></li>
           </ul>
         </div>
 
