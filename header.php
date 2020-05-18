@@ -32,9 +32,9 @@
 <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo mr-auto"><a href="../" class="scrollto"><img src="../assets/img/logo-icon.png" alt="" class="img-fluid">Synthelize</a></h1>
+      <a href="#header" class="logo mr-auto scrollto"><img src="../assets/img/logo-icon.png" alt="" class="img-fluid"></a>
+      <h1 class="logo mr-auto"><a href="../" class="scrollto">&nbsp;&nbsp; Synthelize</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="#header" class="logo mr-auto scrollto"><img src="../assets/img/logo-icon.png" alt="" class="img-fluid"></a> -->
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
