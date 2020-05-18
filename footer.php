@@ -7,9 +7,9 @@
         <h3>Let's work together!</h3>
         <p>Every organization has data challenges that prevent it from reaching its full potential.  We have decades of experience helping organizations formulate and implement long-term data strategies.  </p>
       </div>
-      <div class="col-lg-3 cta-btn-container text-center">
+<!--      <div class="col-lg-3 cta-btn-container text-center">
         <a class="cta-btn align-middle" href="#contact">Contact Us</a>
-      </div>
+      </div> -->
     </div>
 
   </div>
