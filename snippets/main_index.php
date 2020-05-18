@@ -72,7 +72,7 @@
     <div class="row">
 
       <div class="col-lg-5 align-items-stretch video-box" data-aos="fade-right">
-        <img src="../assets/img/logo-icon.svg"/>
+        <img src="../assets/img/logo-icon.svg" style="height: 200px; width: 200px"/>
       </div>
 
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch" data-aos="fade-left">
