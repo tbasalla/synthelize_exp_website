@@ -71,16 +71,16 @@
 
     <div class="row">
 
-      <div class="col-lg-5 align-items-stretch video-box" style='background-image: url("assets/img/why-us.jpg");' data-aos="fade-right">
+      <div class="col-lg-5 align-items-stretch video-box" style='background-image: url("assets/img/logo-icon.svg");' data-aos="fade-right">
         <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
       </div>
 
       <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch" data-aos="fade-left">
 
         <div class="content">
-          <h3>Eum ipsam laborum deleniti <strong>velit pariatur architecto aut nihil</strong></h3>
+          <h3>Welcome to Synthelize</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+          Data is more important than ever, and every organization has data challenges. We have decades of experience helping organizations to deal with the ever growing mountain of data by building data lakes, data warehouses, and data visualizations to satisfy even the most demanding business intelligence needs.
           </p>
         </div>
 
