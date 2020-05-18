@@ -11,7 +11,6 @@
               </h2>
 
               <div class="entry-content">
-                <h2>Five Keys To Successful Business Intelligence Projects</h2>
                 <p class="blog-p"><b>Distill</b> the health of your organization or department down to a few key performance indicators (KPIs).  Many business intelligence initiatives fail simply because no one knows what’s really important, so they try to track and pay attention to too many things.  It’s almost impossible to monitor and manage a hundred metrics, but keeping an eye on two or three key pieces of data is within the ability of most people.</p>
                 <p class="blog-p">The top layer of your business intelligence should always be focused on a few digestible pieces of information, with the ability to dig deeper into those key metrics for more information.  These key indicators vary from organization to organization and even within the same organization during different phases of its business.  Younger organizations may be focused on customer acquisition, hits on website, brand awareness.  Mid-sized organizations may turn their focus into building margins, expanding sales territories, and product quality.  The largest organizations may be focused on regulatory issues, long term customer satisfaction, and return of capital to shareholders.  Distill your area of concern into a few metrics that can be tracked from day to day.</p>
                 <br/>
