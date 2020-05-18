@@ -1804,7 +1804,7 @@ section {
 
 .blog .entry .entry-content p {
   line-height: 24px;
-  font-size: 15px;
+  font-size: 17px;
 }
 
 .blog .entry .entry-content .read-more {
@@ -2449,10 +2449,4 @@ section {
 .cust-navbar-link
 {
   font-size: 15pt;
-}
-
-.blog-p
-{
-  font-size: 17px;
-
 }
