@@ -86,24 +86,23 @@
   <div class="footer-top">
     <div class="container">
       <div class="row">
-        <div class="col-lg-3 col-md-6 footer-info">
+        <div class="col-lg-4 col-md-6 footer-info">
             <h3>About Synthelize</h3>
             <p>Providing data integration, data visualization, and data strategy to organizations worldwide. </p>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links">
+          <div class="col-lg-4 col-md-6 footer-links">
           <h4>Our Services</h4>
           <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Data Strategy Formulation</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Data Integration</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">BI Tools and Dashboards</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Data Lake Development</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Cloud Data Management</a></li>
+            <li><i class="bx bx-chevron-right"></i> Data Strategy Formulation</li>
+            <li><i class="bx bx-chevron-right"></i> Data Integration</li>
+            <li><i class="bx bx-chevron-right"></i> BI Tools and Dashboards</li>
+            <li><i class="bx bx-chevron-right"></i> Data Lake Development</li>
+            <li><i class="bx bx-chevron-right"></i> Cloud Data Management</li>
           </ul>
         </div>
 
-
-        <div class="col-lg-3 col-md-6 footer-links">
+        <div class="col-lg-4 col-md-6 footer-links">
           <h4>Useful Links</h4>
           <ul>
             <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
