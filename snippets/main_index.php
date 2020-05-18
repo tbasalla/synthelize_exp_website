@@ -51,8 +51,7 @@
 
         <div class="row">
 
-          <div class="col-lg-5 align-items-stretch video-box" style='background-image: url("assets/img/why-us.jpg");' data-aos="fade-right">
-            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+          <div class="col-lg-5 align-items-stretch video-box" style='background-image: url("assets/img/contactus/fivestepprocess.jpg");' data-aos="fade-right">
           </div>
 
           <div class="col-lg-7 d-flex flex-column justify-content-center" data-aos="fade-left">
