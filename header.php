@@ -38,7 +38,6 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li><a href="#header" class="cust-navbar-link">Home</a></li>
           <li><a href="#about" class="cust-navbar-link">About</a></li>
           <li><a href="#services" class="cust-navbar-link">Our Process</a></li>
           <li><a href="#portfolio" class="cust-navbar-link">BI Strategy</a></li>
