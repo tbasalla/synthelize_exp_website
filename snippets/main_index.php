@@ -145,7 +145,7 @@
                 <li data-aos="fade-up" data-aos-delay="100">
                   <a data-toggle="collapse" class="collapse" href="#accordion-list-1"><span>1</span> Identify The Goal <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-1" class="collapse show" data-parent=".accordion-list">
-                    <p>What are your key, pressing questions regarding your company that could best be answered by data?</p>
+                    <p>We work with you to determine they key business problems that can be solved with better access to data.</p>
                   </div>
                 </li>
 
@@ -153,7 +153,7 @@
                   <a data-toggle="collapse" href="#accordion-list-2" class="collapsed"><span>2</span> Evaluate Existing Data Systems <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-2" class="collapse" data-parent=".accordion-list">
                     <p>
-                      Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                      We identify the data systems that hold the data relevant to your pressing organizational problems.
                     </p>
                   </div>
                 </li>
@@ -162,25 +162,25 @@
                   <a data-toggle="collapse" href="#accordion-list-3" class="collapsed"><span>3</span> Implement Data Architectures <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-3" class="collapse" data-parent=".accordion-list">
                     <p>
-                      Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                      We architect data stores and processes to move important data into structures that can be accessed easily by business intelligence tools.
                     </p>
                   </div>
                 </li>
 
                 <li data-aos="fade-up" data-aos-delay="100">
                   <a data-toggle="collapse" class="collapse" href="#accordion-list-4"><span>4</span> Populate Visualizations and Dashboards <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                  <div id="accordion-list-1" class="collapse show" data-parent=".accordion-list">
+                  <div id="accordion-list-4" class="collapse show" data-parent=".accordion-list">
                     <p>
-                      Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                      We develop informative, visually compelling reports and dashboard that run on your data reporting systems.
                     </p>
                   </div>
                 </li>
 
                 <li data-aos="fade-up" data-aos-delay="100">
                   <a data-toggle="collapse" class="collapse" href="#accordion-list-5"><span>5</span> Envision The Future <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                  <div id="accordion-list-1" class="collapse show" data-parent=".accordion-list">
+                  <div id="accordion-list-5" class="collapse show" data-parent=".accordion-list">
                     <p>
-                      Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                      We evaluate the overall outcome of the project and plan for the next steps.
                     </p>
                   </div>
                 </li>
