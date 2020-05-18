@@ -91,6 +91,19 @@
             <p>Providing data integration, data visualization, and data strategy to organizations worldwide. </p>
           </div>
 
+          <div class="col-lg-3 col-md-6 footer-links">
+          <h4>Our Services</h4>
+          <ul>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Data Integration</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Data Visualization</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Data Strategy Formulation</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">BI Tools and Dashboards</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Data Lake Development</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Cloud Data Management</a></li>
+          </ul>
+        </div>
+
+
         <div class="col-lg-3 col-md-6 footer-links">
           <h4>Useful Links</h4>
           <ul>
@@ -102,16 +115,6 @@
           </ul>
         </div>
 
-        <div class="col-lg-3 col-md-6 footer-links">
-          <h4>Our Services</h4>
-          <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-          </ul>
-        </div>
 
         <div class="col-lg-3 col-md-6 footer-contact">
           <h4>Contact Us</h4>
