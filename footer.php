@@ -115,7 +115,7 @@
   </div>
 </footer><!-- End Footer -->
 <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
-  <div id="preloader"></div>
+  <!-- <div id="preloader"></div> -->
 
   <!-- Vendor JS Files -->
   <script src="../../assets/vendor/jquery/jquery.min.js"></script>
