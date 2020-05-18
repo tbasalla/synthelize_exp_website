@@ -18,50 +18,50 @@
 
     <div class="section-title">
       <h2>Services</h2>
-      <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+      <p>Not every organizational data need is the same.  We offer a broad range of services to join you where you are at in your data journey and help you get to the next level.</p>
     </div>
 
     <div class="row">
       <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="icon-box">
           <i class="icofont-computer"></i>
-          <h4><a href="#">Lorem Ipsum</a></h4>
-          <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+          <h4><a href="#">Data Integration</a></h4>
+          <p>We work with your team to develop and implement a data integration plan that may include cloud hosting and data warehousing.</p>
         </div>
       </div>
       <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
         <div class="icon-box">
           <i class="icofont-chart-bar-graph"></i>
-          <h4><a href="#">Dolor Sitema</a></h4>
-          <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+          <h4><a href="#">Data Visualization</a></h4>
+          <p>We work with existing or new data stores to develop novel, insightful visualizations in the platform of your choice.</p>
         </div>
       </div>
       <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="300">
         <div class="icon-box">
           <i class="icofont-image"></i>
-          <h4><a href="#">Sed ut perspiciatis</a></h4>
-          <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-        </div>
-      </div>
-      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
-        <div class="icon-box">
-          <i class="icofont-settings"></i>
-          <h4><a href="#">Nemo Enim</a></h4>
-          <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-        </div>
-      </div>
-      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="500">
-        <div class="icon-box">
-          <i class="icofont-earth"></i>
-          <h4><a href="#">Magni Dolore</a></h4>
-          <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+          <h4><a href="#">Data Strategy</a></h4>
+          <p>We develop long term data plans - systems to evaluate, dashboards to create, ways to disseminate key data throughout your organization.</p>
         </div>
       </div>
       <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="600">
         <div class="icon-box">
           <i class="icofont-tasks-alt"></i>
-          <h4><a href="#">Eiusmod Tempor</a></h4>
-          <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+          <h4><a href="#">Cloud Data Migration</a></h4>
+          <p>We help you to evaluate cloud data platforms and move key data processes into more scalable environments.</p>
+        </div>
+      </div>
+      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
+        <div class="icon-box">
+          <i class="icofont-settings"></i>
+          <h4><a href="#">Big Data</a></h4>
+          <p>We help you build data structures and data pipelines to deal with the biggest data challenges.</p>
+        </div>
+      </div>
+      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="500">
+        <div class="icon-box">
+          <i class="icofont-earth"></i>
+          <h4><a href="#">Machine Learning and AI</a></h4>
+          <p>We help you to leverage your data sets with cutting edge machine learning algorithms to extract new insights.</p>
         </div>
       </div>
     </div>
