@@ -38,7 +38,7 @@
       </div>
       <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="300">
         <div class="icon-box">
-          <i class="icofont-image"></i>
+          <i class="icofont-compass"></i>
           <h4><a href="#">Data Strategy</a></h4>
           <p>We develop long term data plans - systems to evaluate, dashboards to create, ways to disseminate key data throughout your organization.</p>
         </div>
