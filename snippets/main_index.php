@@ -24,14 +24,14 @@
     <div class="row">
       <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="icon-box">
-          <i class="icofont-computer"></i>
+          <i class="icofont-drag"></i>
           <h4><a href="#">Data Integration</a></h4>
           <p>We work with your team to develop and implement a data integration plan that may include cloud hosting and data warehousing.</p>
         </div>
       </div>
       <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
         <div class="icon-box">
-          <i class="icofont-chart-bar-graph"></i>
+          <i class="icofont-chart-dashboard-web"></i>
           <h4><a href="#">Data Visualization</a></h4>
           <p>We work with existing or new data stores to develop novel, insightful visualizations in the platform of your choice.</p>
         </div>
@@ -45,7 +45,7 @@
       </div>
       <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="600">
         <div class="icon-box">
-          <i class="icofont-tasks-alt"></i>
+          <i class="icofont-cloud"></i>
           <h4><a href="#">Cloud Data Migration</a></h4>
           <p>We help you to evaluate cloud data platforms and move key data processes into more scalable environments.</p>
         </div>
