@@ -31,7 +31,7 @@
       </div>
       <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
         <div class="icon-box">
-          <i class="icofont-chart-dashboard-web"></i>
+          <i class="icofont-dashboard-web"></i>
           <h4><a href="#">Data Visualization</a></h4>
           <p>We work with existing or new data stores to develop novel, insightful visualizations in the platform of your choice.</p>
         </div>
