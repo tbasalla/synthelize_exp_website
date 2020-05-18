@@ -131,7 +131,7 @@
             <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
           </div>
 
-          <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch" data-aos="fade-left">
+          <div class="col-lg-7 d-flex flex-column justify-content-center" data-aos="fade-left">
 
             <div class="content">
               <h3>Our Five Step Process</h3>
