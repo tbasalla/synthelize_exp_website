@@ -52,14 +52,14 @@
       </div>
       <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
         <div class="icon-box">
-          <i class="icofont-settings"></i>
+          <i class="icofont-database"></i>
           <h4><a href="#">Big Data</a></h4>
           <p>We help you build data structures and data pipelines to deal with the biggest data challenges.</p>
         </div>
       </div>
       <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="500">
         <div class="icon-box">
-          <i class="icofont-earth"></i>
+          <i class="icofont-pixels"></i>
           <h4><a href="#">Machine Learning and AI</a></h4>
           <p>We help you to leverage your data sets with cutting edge machine learning algorithms to extract new insights.</p>
         </div>
