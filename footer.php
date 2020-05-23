@@ -25,27 +25,6 @@
     <div class="row mt-1 d-flex justify-content-end" data-aos="fade-right" data-aos-delay="100">
 
       <div class="col-lg-5">
-<!--        <div class="info">
-          <div class="address">
-            <i class="icofont-google-map"></i>
-            <h4>Location:</h4>
-            <p>A108 Adam Street, New York, NY 535022</p>
-          </div>
-
-          <div class="email">
-            <i class="icofont-envelope"></i>
-            <h4>Email:</h4>
-            <p>info@example.com</p>
-          </div>
-
-          <div class="phone">
-            <i class="icofont-phone"></i>
-            <h4>Call:</h4>
-            <p>+1 5589 55488 55s</p>
-          </div>
-
-        </div>
--->
       </div>
 
       <div class="col-lg-6 mt-5 mt-lg-0" data-aos="fade-left" data-aos-delay="100">
@@ -106,6 +85,7 @@
           <h4>Key Links</h4>
           <ul>
             <li><i class="bx bx-chevron-right"></i> <a href="../">Home</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="../privacy-policy">Privacy Policy</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="../introducing-synthelize">About us</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="../our-process">Our Process</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="../what-is-a-data-lake">What is a data lake?</a></li>
