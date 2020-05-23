@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <title><?php echo $page_title ?></title>
-  <meta content="" name="descriptison">
+  <meta content="<?php echo $meta_description ?>" name="description">
   <meta content="" name="keywords">
   <!-- Favicons -->
 

@@ -1,4 +1,7 @@
-<?php $page_title = 'What is a Data Lake? - Synthelize'; ?>
+<?php 
+  $page_title = 'What is a Data Lake? - Synthelize'; 
+  $meta_description = '';
+?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/hit_tracker.php";?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/header.php";?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/blog_header.php";?>

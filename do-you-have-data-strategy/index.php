@@ -1,4 +1,7 @@
-<?php $page_title = 'Do You Have A Data Strategy? - Synthelize'; ?>
+<?php 
+  $page_title = 'Do You Have A Data Strategy? - Synthelize'; 
+  $meta_description = '';
+?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/hit_tracker.php";?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/header.php";?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/blog_header.php";?>
