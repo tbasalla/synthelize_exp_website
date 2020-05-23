@@ -12,7 +12,7 @@
           </div>
 
           <h2 class="entry-title">
-            <a href="/data-lake-azure">Introducing Synthelize</a>
+            <a href="/introducing-synthelize">Introducing Synthelize</a>
           </h2>
           <div class="entry-content">
             <p>Who we are, what we do, and why you should work with us for all your business data needs.</p>
@@ -32,7 +32,7 @@
           </div>
 
           <h2 class="entry-title">
-            <a href="/data-lake-azure">Do You Have a Data Strategy?</a>
+          <a href="/do-you-have-data-strategy/">Do You Have a Data Strategy?</a>
           </h2>
           <div class="entry-content">
             <p>Learn the difference between having a data system and a data strategy.</p>
@@ -47,11 +47,11 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/blog-3.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/our-five-step-process.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
-            <a href="/data-lake-azure">Our Five Step Process</a>
+            <a href="/our-process">Our Five Step Process</a>
           </h2>
           <div class="entry-content">
             <p>The process we use to plan and build data systems, architectures, and visualization dashboards.</p>
@@ -70,7 +70,7 @@
           </div>
 
           <h2 class="entry-title">
-            <a href="/data-lake-azure">What is a Data Lake?</a>
+          <a href="/what-is-a-data-lake/">What is a Data Lake?</a>
           </h2>
           <div class="entry-content">
             <p>Introduction to data lakes and techniques for handling big data.</p>
@@ -85,11 +85,11 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/building-a-data-lake.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/building-a-data-lake-thumbnail.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
-            <a href="/data-lake-azure">Building a Data Lake</a>
+          <a href="/building-a-data-lake">Building a Data Lake</a>
           </h2>
           <div class="entry-content">
             <p>Learn the basics of building a data lake.</p>
@@ -108,7 +108,7 @@
           </div>
 
           <h2 class="entry-title">
-            <a href="/data-lake-azure">Data Lake Solutions</a>
+            <a href="/data-lake-cloud-options/">Data Lake Solutions</a>
           </h2>
           <div class="entry-content">
             <p>An exploration of the major cloud vendors and their data lake solutions.</p>
@@ -128,7 +128,7 @@
           </div>
 
           <h2 class="entry-title">
-            <a href="/data-lake-azure">Data Lake vs. Data Warehouse</a>
+          <a href="/data-lake-vs-data-warehouse/">Data Lake vs. Data Warehouse</a>
           </h2>
           <div class="entry-content">
             <p>An examination of the roles of data lakes and data warehouses. </p>
@@ -168,7 +168,7 @@
           </div>
 
           <h2 class="entry-title">
-            <a href="/data-lake-azure">Keys to BI Success</a>
+            <a href="/keys-to-bi-success/">Keys to BI Success</a>
           </h2>
           <div class="entry-content">
             <p>Five key steps to ensure the success of your next business intelligence project.</p>
