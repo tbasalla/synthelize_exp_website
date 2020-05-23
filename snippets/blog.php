@@ -164,7 +164,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/blog-bi-success-keys.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/keys-to-bi-success.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
