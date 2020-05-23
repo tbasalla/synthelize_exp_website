@@ -66,7 +66,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/what-is-a-data-lake.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -85,7 +85,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/building-a-data-lake.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -124,7 +124,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/data-lake-vs-data-warehouse.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">

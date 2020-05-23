@@ -3,7 +3,7 @@
             <article class="entry entry-single">
 
               <div class="entry-img">
-                <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
+                <img src="../assets/img/building-a-data-lake.jpg" alt="" class="img-fluid">
               </div>
               <h2 class="entry-title">Building a Data Lake</h2>
 
