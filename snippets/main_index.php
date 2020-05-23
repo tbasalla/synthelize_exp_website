@@ -19,29 +19,6 @@
       <h2>About Us</h2>
       <p>The name "Synthelize" is a combination of the words "synthesize" and "visualize", the two key processes used to extract meaning from data. According to dictionary.com, the word synthesize means "to form (a material or abstract entity) by combining parts or elements". In your world, your data elements exist in many different places—locally hosted systems, spreadsheets, databases, data files, cloud based solutions. Our first job is to synthesize that information—to bring it together into a new form by combining the pieces from various systems. We have decades of experience in integrating data from various places and combining it into new data stores—data warehouses, cubes, or other structures—to help you make sense of it.</p>
     </div>
-
-<!--    <div class="row content">
-      <div class="col-lg-6">
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-          magna aliqua.
-        </p>
-        <ul>
-          <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-          <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-          <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-        </ul>
-      </div>
-      <div class="col-lg-6 pt-4 pt-lg-0">
-        <p>
-          Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-          velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
-        </p>
-        <a href="#" class="btn-learn-more">Learn More</a>
-      </div>
-    </div>
--->
   </div>
 </section><!-- End About Us Section -->
 
