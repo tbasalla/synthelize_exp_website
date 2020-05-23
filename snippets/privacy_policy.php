@@ -1,4 +1,4 @@
-<div id="container">
+<section id="about" class="about">
 <h2>Privacy Policy</h2>
 <p>This privacy policy ("policy") will help you understand how Synthelize ("us", "we", "our") uses and protects the data you provide to us when you visit and use our website.</p>
 <p>We reserve the right to change this policy at any given time, of which you will be promptly updated. If you want to make sure that you are up to date with the latest changes, we advise you to frequently visit this page.</p>
@@ -39,4 +39,4 @@
 <h3>Restricting the Collection of your Personal Data</h3>
 <p>The only personal information this website collects is through its message contact form.  If you do not wish Synthelize to have your personal information simply refrain from providing that information in our contact form.</p>
 <p>Synthelize will not lease, sell or distribute your personal information to any third parties, unless we have your permission. We might do so if the law forces us. Your personal information will be used when we need to send you promotional materials if you agree to this privacy policy.</p>
-</div>
+</section>
