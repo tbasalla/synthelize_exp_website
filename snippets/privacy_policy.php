@@ -8,6 +8,7 @@
         </ol>
       </div>
     </section><!-- End Breadcrumbs -->
+    <section id="about" class="about">
 <h2>Privacy Policy</h2>
 <p>This privacy policy ("policy") will help you understand how Synthelize ("us", "we", "our") uses and protects the data you provide to us when you visit and use our website.</p>
 <p>We reserve the right to change this policy at any given time, of which you will be promptly updated. If you want to make sure that you are up to date with the latest changes, we advise you to frequently visit this page.</p>
