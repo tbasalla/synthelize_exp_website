@@ -112,21 +112,6 @@
             <li><i class="bx bx-chevron-right"></i> <a href="../keys-to-bi-success">Keys to BI Success</a></li>
           </ul>
         </div>
-
-
-<!--      <div class="col-lg-3 col-md-6 footer-contact">
-          <h4>Contact Us</h4>
-          <p>
-            A108 Adam Street <br>
-            New York, NY 535022<br>
-            United States <br><br>
-            <strong>Phone:</strong> +1 5589 55488 55<br>
-            <strong>Email:</strong> info@example.com<br>
-          </p>
-
-        </div>
--->
-
       </div>
     </div>
   </div>
@@ -146,21 +131,5 @@
 
   <!-- Template Main JS File -->
   <script src="../../assets/js/main.js"></script>
-  <script>
-    function savecontact()
-    {
-      var formData = new FormData();
-
-      var contact_string = "";
-      contact_string += "name=" + document.getElementById("name").value;
-      contact_string += ";email=" + document.getElementById("email").value;
-      contact_string += ";message=" + document.getElementById("message").value;
-      formData.append("contact_details", contact_string);
-  	  var xhr = new XMLHttpRequest();
-
-  	xhr.open("POST", window.location.origin + '/contact-save.php', true);
-	  xhr.send(formData);
-    }
-  </script>
 </body>
 </html>
