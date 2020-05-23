@@ -62,7 +62,7 @@
             </div>
           </div>
           <div class="form-group">
-            <textarea class="form-control" name="message" rows="10" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+            <textarea class="form-control" name="message" id="message" rows="10" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
             <div class="validate"></div>
           </div>
           <div class="mb-3">
