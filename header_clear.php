@@ -4,8 +4,7 @@
       <div class="container">
 
         <ol>
-          <li><a href="../">Home</a></li>
-          <li><a href="../blog">Blog</a></li>
+          <li>&nbsp;</li>
         </ol>
       </div>
     </section><!-- End Breadcrumbs -->
