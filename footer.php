@@ -138,15 +138,30 @@
   <script src="../../assets/vendor/jquery/jquery.min.js"></script>
   <script src="../../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="../../assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="../../assets/vendor/php-email-form/validate.js"></script>
+<!--  <script src="../../assets/vendor/php-email-form/validate.js"></script>
   <script src="../../assets/vendor/owl.carousel/owl.carousel.min.js"></script>
   <script src="../../assets/vendor/venobox/venobox.min.js"></script>
+-->
   <script src="../../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <script src="../../assets/vendor/aos/aos.js"></script>
 
   <!-- Template Main JS File -->
   <script src="../../assets/js/main.js"></script>
-  
-</body>
+  <script>
+    function savecontact()
+    {
+      var formData = new FormData();
 
+      var contact_string = "";
+      contact_string += "name=" + document.getElementById("name").value;
+      contact_string += ";email=" + document.getElementById("email").value;
+      contact_string += ";message=" + document.getElementById("message").value;
+      formData.append("contact_details", contact_string);
+  	  var xhr = new XMLHttpRequest();
+
+  	xhr.open("POST", window.location.origin + '/contact-save.php', true);
+	  xhr.send(formData);
+    }
+  </script>
+</body>
 </html>
