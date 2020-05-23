@@ -39,7 +39,7 @@
 
 <p>Please note that cookies don't allow us to gain control of your computer in any way. They are strictly used to monitor which pages you find useful and which you do not so that we can provide a better experience for you.</p>
 
-<p>If you want to disable cookies, you can do it by accessing the settings of your internet browser. (Provide links for cookie settings for major internet browsers).</p>
+<p>If you want to disable cookies, you can do it by accessing the settings of your internet browser.</p>
 
 <h3>Links to Other Websites</h3>
 
