@@ -8,7 +8,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/introducing-synthelize.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -28,7 +28,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/do-you-have-data-strategy.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -47,7 +47,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/blog-3.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -164,7 +164,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/blog-bi-success-keys.jpg" alt="" class="img-fluid">
           </div>
 
           <h2 class="entry-title">

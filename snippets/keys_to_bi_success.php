@@ -3,7 +3,7 @@
             <article class="entry entry-single">
 
               <div class="entry-img">
-                <img src="../assets/img/blog-1.jpg" alt="" class="img-fluid">
+                <img src="../assets/img/blog-bi-success-keys.jpg" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title">Five Keys To Successful Business Intelligence Projects
