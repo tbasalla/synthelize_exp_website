@@ -39,7 +39,7 @@ $stmt->bindValue(':host_name', '');
 $stmt->bindValue(':host_ip_address', $_SERVER['REMOTE_ADDR']);
 $stmt->bindValue(':user_agent', $_SERVER['HTTP_USER_AGENT']);
 $stmt->bindValue(':referrer', $referrer_value);
-$stmt->bindValue(':contact_details', $_POST["contact_details"]);
+$stmt->bindValue(':contact_details', $contact_details);
 $dbconn->beginTransaction();
 
 $stmt->execute();
