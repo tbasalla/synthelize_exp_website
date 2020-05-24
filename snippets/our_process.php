@@ -3,7 +3,7 @@
             <article class="entry entry-single">
 
               <div class="entry-img">
-                <img src="../assets/img/our-five-step-process.jpg" alt="" class="img-fluid">
+                <img src="../assets/img/our-five-step-process.jpg" alt="Data Warehouse Consulting Image" class="img-fluid">
               </div>
 
               <h3 class="entry-title">Our Data Warehouse Consulting Process</h3>

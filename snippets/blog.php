@@ -8,7 +8,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/introducing-synthelize.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/introducing-synthelize.jpg" alt="Introducing Synthelize Image" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -28,7 +28,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/do-you-have-data-strategy.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/do-you-have-data-strategy.jpg" alt="Data Strategy Image" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -47,7 +47,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/our-five-step-process.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/our-five-step-process.jpg" alt="Data Warehouse Consulting Image" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -66,7 +66,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/what-is-a-data-lake.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/what-is-a-data-lake.jpg" alt="Data Lake Image" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -85,7 +85,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/building-a-data-lake.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/building-a-data-lake.jpg" alt="Building Data Lake Image" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -104,7 +104,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/data-lake-solutions.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/data-lake-solutions.jpg" alt="Data Lake Solutions Image" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -124,7 +124,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/data-lake-vs-data-warehouse.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/data-lake-vs-data-warehouse.jpg" alt="Data Lake vs Data Warehouse Image" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -144,7 +144,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/azure-data-lake.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/azure-data-lake.jpg" alt="Azure Data Lake Image" class="img-fluid">
           </div>
 
           <h2 class="entry-title">
@@ -164,7 +164,7 @@
         <article class="entry">
 
         <div class="entry-img">
-            <img src="../assets/img/keys-to-bi-success.jpg" alt="" class="img-fluid">
+            <img src="../assets/img/keys-to-bi-success.jpg" alt="Keys To BI Success Image" class="img-fluid">
           </div>
 
           <h2 class="entry-title">

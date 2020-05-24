@@ -3,7 +3,7 @@
             <article class="entry entry-single">
 
               <div class="entry-img">
-                <img src="../assets/img/what-is-a-data-lake.jpg" alt="" class="img-fluid">
+                <img src="../assets/img/what-is-a-data-lake.jpg" alt="Data Lake Image" class="img-fluid">
               </div>
 
               <h2 class="entry-title">What is a Data Lake?</h2>

@@ -3,7 +3,7 @@
             <article class="entry entry-single">
 
               <div class="entry-img">
-                <img src="../assets/img/introducing-synthelize.jpg" alt="" class="img-fluid">
+                <img src="../assets/img/introducing-synthelize.jpg" alt="Introducing Synthelize Image" class="img-fluid">
               </div>
 
               <h2 class="entry-title">Introducing Synthelize</h2>

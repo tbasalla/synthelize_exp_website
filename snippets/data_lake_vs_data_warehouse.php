@@ -3,7 +3,7 @@
             <article class="entry entry-single">
 
               <div class="entry-img">
-                <img src="../assets/img/data-lake-vs-data-warehouse.jpg" alt="" class="img-fluid">
+                <img src="../assets/img/data-lake-vs-data-warehouse.jpg" alt="Data Lake vs Data Warehouse Image" class="img-fluid">
               </div>
 
               <h2 class="entry-title">Data Lake vs. Data Warehouse</h2>
