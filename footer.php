@@ -2,32 +2,28 @@
 <section id="cta" class="cta">
   <div class="container">
 
-    <div class="row" data-aos="zoom-in">
+    <div class="row">
       <div class="col-lg-9 text-center text-lg-left">
         <h3>Let's work together!</h3>
         <p>Every organization has data challenges that prevent it from reaching its full potential.  We have decades of experience helping organizations formulate and implement long-term data strategies.  </p>
       </div>
-<!--      <div class="col-lg-3 cta-btn-container text-center">
-        <a class="cta-btn align-middle" href="#contact">Contact Us</a>
-      </div> -->
     </div>
-
   </div>
 </section><!-- End Cta Section -->
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="contact">
-  <div class="container" data-aos="fade-up">
+  <div class="container">
 
     <div class="section-title">
       <h2>Contact Us</h2>
     </div>
 
-    <div class="row mt-1 d-flex justify-content-end" data-aos="fade-right" data-aos-delay="100">
+    <div class="row mt-1 d-flex justify-content-end">
 
       <div class="col-lg-5">
       </div>
 
-      <div class="col-lg-6 mt-5 mt-lg-0" data-aos="fade-left" data-aos-delay="100">
+      <div class="col-lg-6 mt-5 mt-lg-0">
 
         <form action="../forms/contact.php" method="post" role="form" class="php-email-form">
           <div class="form-row">
