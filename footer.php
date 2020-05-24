@@ -67,7 +67,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-6 footer-info">
             <h4>About Synthelize</h4>
-            <p>Providing data integration, data visualization, and data strategy to organizations worldwide. </p>
+            <p>Providing data integration, data visualization, and data strategy to organizations of all shapes and sizes. </p>
           </div>
 
           <div class="col-lg-4 col-md-6 footer-links">
