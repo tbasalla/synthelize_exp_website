@@ -92,7 +92,7 @@
           <a href="/building-a-data-lake">Building a Data Lake</a>
           </h2>
           <div class="entry-content">
-            <p>Learn the basics of building a data lake.</p>
+            <p>Learn the major steps in building a scalable, secure data lake.</p>
             <div class="read-more">
               <a href="/building-a-data-lake">Read More</a>
             </div>
