@@ -1,0 +1,3 @@
+Sitemap: https://www.synthelize.com/sitemap.xml
+User-agent:*
+Disallow:
