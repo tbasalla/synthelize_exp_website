@@ -66,7 +66,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-4 col-md-6 footer-info">
-            <h3>About Synthelize</h3>
+            <h4>About Synthelize</h4>
             <p>Providing data integration, data visualization, and data strategy to organizations worldwide. </p>
           </div>
 
