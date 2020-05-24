@@ -1,6 +1,6 @@
 <?php 
   $page_title = 'Privacy Policy - Synthelize'; 
-  $meta_description = 'Our privacy policy';
+  $meta_description = 'Synthelize Website Privacy Policy';
 ?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/hit_tracker.php";?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/header.php";?>

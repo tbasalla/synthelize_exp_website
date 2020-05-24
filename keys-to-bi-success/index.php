@@ -1,6 +1,6 @@
 <?php 
   $page_title = 'Keys To Business Intelligence Success - Synthelize'; 
-  $meta_description = '';
+  $meta_description = 'We explore the keys steps to execute on a successful business intelligence project.';
 ?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/hit_tracker.php";?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/header.php";?>

@@ -1,6 +1,6 @@
 <?php 
-  $page_title = 'Building a Data Lake - Synthelize'; 
-  $meta_description = '';
+  $page_title = 'Building A Data Lake - Synthelize'; 
+  $meta_description = 'This article explores the processes and tools essential for building a scalable, secure data lake.';
 ?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/hit_tracker.php";?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/blog_header.php";?>
