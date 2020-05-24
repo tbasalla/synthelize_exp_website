@@ -28,7 +28,7 @@
 
         <div class="row">
 
-          <div class="col-lg-5 align-items-stretch video-box" style='background-image: url("../assets/img/contactus/our-five-step-process.jpg");'>
+          <div class="col-lg-5 align-items-stretch video-box" style='background-image: url("../assets/img/our-five-step-process.jpg");'>
           </div>
 
           <div class="col-lg-7 d-flex flex-column justify-content-center">
@@ -99,7 +99,7 @@
 
 <!-- ======= Services Section ======= -->
 <section id="services" class="services">
-  <div class="container" data-aos="fade-up">
+  <div class="container">
 
     <div class="section-title">
       <h2>Services</h2>
@@ -107,42 +107,42 @@
     </div>
 
     <div class="row">
-      <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+      <div class="col-md-6 d-flex align-items-stretch">
         <div class="icon-box">
           <i class="icofont-drag"></i>
           <h4><a href="#">Data Integration</a></h4>
           <p>We work with your team to develop and implement a data integration plan that may include cloud hosting and data warehousing.</p>
         </div>
       </div>
-      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
         <div class="icon-box">
           <i class="icofont-dashboard-web"></i>
           <h4><a href="#">Data Visualization</a></h4>
           <p>We work with existing or new data stores to develop novel, insightful visualizations in the platform of your choice.</p>
         </div>
       </div>
-      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="300">
+      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
         <div class="icon-box">
           <i class="icofont-compass"></i>
           <h4><a href="#">Data Strategy</a></h4>
           <p>We develop long term data plans - systems to evaluate, dashboards to create, ways to disseminate key data throughout your organization.</p>
         </div>
       </div>
-      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="600">
+      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
         <div class="icon-box">
           <i class="icofont-cloud"></i>
           <h4><a href="#">Cloud Data Migration</a></h4>
           <p>We help you to evaluate cloud data platforms and move key data processes into more scalable environments.</p>
         </div>
       </div>
-      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
+      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
         <div class="icon-box">
           <i class="icofont-database"></i>
           <h4><a href="#">Big Data</a></h4>
           <p>We help you build data structures and data pipelines to deal with the biggest data challenges.</p>
         </div>
       </div>
-      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="500">
+      <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
         <div class="icon-box">
           <i class="icofont-pixels"></i>
           <h4><a href="#">Machine Learning and AI</a></h4>
