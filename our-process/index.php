@@ -1,5 +1,5 @@
 <?php 
-  $page_title = 'Our Process - Synthelize'; 
+  $page_title = 'Our Data Warehouse Consulting Process - Synthelize'; 
   $meta_description = '';
 ?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/hit_tracker.php";?>
