@@ -28,10 +28,10 @@
 
         <div class="row">
 
-          <div class="col-lg-5 align-items-stretch video-box" style='background-image: url("../assets/img/contactus/FiveStepProcess.jpg");' data-aos="fade-right">
+          <div class="col-lg-5 align-items-stretch video-box" style='background-image: url("../assets/img/contactus/our-five-step-process.jpg");'>
           </div>
 
-          <div class="col-lg-7 d-flex flex-column justify-content-center" data-aos="fade-left">
+          <div class="col-lg-7 d-flex flex-column justify-content-center">
 
             <div class="content">
               <h3>Our Five Step Process</h3>
@@ -42,7 +42,7 @@
 
             <div class="accordion-list">
               <ul>
-                <li data-aos="fade-up" data-aos-delay="100">
+                <li data-aos="fade-up">
                   <a data-toggle="collapse" class="collapse" href="#accordion-list-1"><span>1</span> Identify The Goal <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-1" class="collapse show" data-parent=".accordion-list">
                     <p>We work with you to determine they key business problems that can be solved with better access to data.</p>
